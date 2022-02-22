@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on https://github.com/Advtech92/CityTech - A Minecraft Mod for 1.16.5 and 1.18.1
 - 🌱 I’m currently learning Java and Python
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Either via <a herf="discord.gg/sc4a2MV">Discord</a> or via Email<mailto:dsapelli@yahoo.com>
+- 📫 How to reach me: Either via <a herf="discord.gg/sc4a2MV">Discord</a> or via <a herf="mailto:dsapelli@yahoo.com"> Email </a>
   
 <!--
 **Advtech92/Advtech92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
