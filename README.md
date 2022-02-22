@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my github!
 
+- 🔭 I’m currently working on https://github.com/Advtech92/Starry-Tech A Minecraft Modpack that a friend and I came up wiht
+- 👯 I’m looking to collaborate on https://github.com/Advtech92/CityTech - A Minecraft Mod for 1.16.5 and 1.18.1
+- 🌱 I’m currently learning Java and Python
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: Either via Discord<a herf=url"discord.gg/sc4a2MV"> or via Email
+  
 <!--
 **Advtech92/Advtech92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
