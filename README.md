@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on https://github.com/Advtech92/Starry-Tech A Minecraft Modpack that a friend and I came up wiht
 - 👯 I’m looking to collaborate on https://github.com/Advtech92/CityTech - A Minecraft Mod for 1.16.5 and 1.18.1
 - 🌱 I’m currently learning Java and Python
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: Either via [Discord](https://discord.gg/sc4a2MV) or via [Email](mailto:dsapelli@yahoo.com)
   
 <!--
