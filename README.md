@@ -1,6 +1,6 @@
 ### Hi there 👋 and welcome to my github!
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on https://github.com/advtech92/Hailey - A personal Assistant bot
 - 👯 I’m looking to collaborate on nothing right now
 - 🌱 I’m currently learning Java and Python
