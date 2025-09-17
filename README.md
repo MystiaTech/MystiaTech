@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome to my github!
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on https://github.com/advtech92/Hailey - A personal Assistant bot
+- 🔭 I’m currently working on nothing at the moment!
 - 👯 I’m looking to collaborate on nothing right now
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: Either via [Discord](https://discord.gg/sc4a2MV) or via [Email](mailto:dsapelli@yahoo.com)
